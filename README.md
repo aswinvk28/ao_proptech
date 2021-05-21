@@ -35,3 +35,12 @@ External Files
 ```
 Referring to [https://www.uh.edu/~bsorense/gra_caus.pdf](https://www.uh.edu/~bsorense/gra_caus.pdf), Granger Causality tests will fail for the given dataset due to non-continuous data in the intervals. 
 ```
+
+Statistical Tests
+-----------------
+
+Notice that the pvalues are very less for these comparisons.
+
+**Month_February, Month_March and Month_December are found to be correlated. Also see other correlated columns that are likely to be concordant.**
+
+![./images/Kendalltau.PNG](./images/Kendalltau.PNG)
