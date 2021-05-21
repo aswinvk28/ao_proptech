@@ -43,4 +43,4 @@ Notice that the pvalues are very less for these comparisons.
 
 **Month_February, Month_March and Month_December are found to be correlated. Also see other correlated columns that are likely to be concordant.**
 
-![./images/Kendalltau.PNG](./images/Kendalltau.PNG)
+![./images/kendalltau.PNG](./images/kendalltau.PNG)
