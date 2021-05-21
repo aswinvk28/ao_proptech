@@ -30,4 +30,6 @@ External Files
 
 - PropTech Interview Assessment.pptx
 
+```
 Referring to [https://www.uh.edu/~bsorense/gra_caus.pdf](https://www.uh.edu/~bsorense/gra_caus.pdf), Granger Causality tests will fail for the given dataset due to non-continuous data in the intervals. 
+```
