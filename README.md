@@ -44,3 +44,16 @@ Notice that the pvalues are very less for these comparisons.
 **Month_February, Month_March and Month_December are found to be correlated. Also see other correlated columns that are likely to be concordant.**
 
 ![./images/kendalltau.PNG](./images/kendalltau.PNG)
+
+DEA Problem
+-----------
+
+![./images/dea_problem2.png](./images/dea_problem2.png)
+
+#### HQ analysis
+
+![./images/HQ_with_uniform_DMUs.png](./images/HQ_with_uniform_DMUs.png)
+
+#### Stage analysis
+
+![./images/Stage_with_uniform_DMUs.png](./images/Stage_with_uniform_DMUs.png)
