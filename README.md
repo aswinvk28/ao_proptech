@@ -48,7 +48,7 @@ Notice that the pvalues are very less for these comparisons.
 DEA Problem
 -----------
 
-![./images/dea_problem2.png](./images/dea_problem2.png)
+![./images/dea_problem2.PNG](./images/dea_problem2.PNG)
 
 #### HQ analysis
 
