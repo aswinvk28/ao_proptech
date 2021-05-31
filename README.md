@@ -57,3 +57,18 @@ DEA Problem
 #### Stage analysis
 
 ![./images/Stage_with_uniform_DMUs.png](./images/Stage_with_uniform_DMUs.png)
+
+Using TensorFlow Constrained Optimization
+-----------------------------------------
+
+### Hinge Loss
+
+![./images/tfco-hingeloss.PNG](./images/tfco-hingeloss.PNG)
+
+### Predictions
+
+![./images/tfco-predictions.PNG](./images/tfco-predictions.PNG)
+
+### Labels Equating to Predictions
+
+![./images/tfco-labels-predictions.PNG](./images/tfco-labels-predictions.PNG)
