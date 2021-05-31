@@ -72,3 +72,5 @@ Using TensorFlow Constrained Optimization
 ### Labels Equating to Predictions
 
 ![./images/tfco-labels-predictions.PNG](./images/tfco-labels-predictions.PNG)
+
+[./reinforcement-learning.ipynb](./reinforcement-learning.ipynb)
