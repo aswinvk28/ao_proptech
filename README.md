@@ -39,6 +39,22 @@ Referring to [https://www.uh.edu/~bsorense/gra_caus.pdf](https://www.uh.edu/~bso
 Statistical Tests
 -----------------
 
+`Stage` and `PropTech_Vertical1`
+
+**pv1_PropFinTech, pv1_Property Management, pv1_ConTech are correlated to each other**
+
+**As per the presentation Slides, PropTech_Vertical1 (PropFinTech, Property, Management, ConTech) are equally weighed in PCA transformation in First Dimension**
+
+![./images/Slide-2.png](./images/Slide-2.png)
+
+`Stage` and `Business_Model1`
+
+**Marketplace vs B2B vs SaaS are highly correlated**
+
+**As per the Presentation Slides, In PCA, B2B has a higher value in dimensions 1 and 2 indicating they behave differently and is possibly a clustering concern.**
+
+![./images/Slide-1.png](./images/Slide-1.png)
+
 Notice that the pvalues are very less for these comparisons.
 
 **Month_February, Month_March and Month_December are found to be correlated. Also see other correlated columns that are likely to be concordant.**

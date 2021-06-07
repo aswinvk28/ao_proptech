@@ -9,7 +9,7 @@ RUN apt-get install git -y
 RUN git config --global user.email "aswinkvj@gmail.com"
 RUN git config --global user.name "Aswin Vijayakumar"
 RUN conda init bash
-# RUN /opt/conda/envs/backend/bin/pip install shap==0.37.0 matplotlib scikit-learn scipy cvxpy
+RUN /opt/conda/envs/ao_proptech/bin/pip install tensorflow==1.14 tensorflow_constrained_optimization jupyter pandas scikit-learn
 
 WORKDIR /home/project
 
