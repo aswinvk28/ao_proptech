@@ -90,3 +90,11 @@ Using TensorFlow Constrained Optimization
 ![./images/tfco-labels-predictions.PNG](./images/tfco-labels-predictions.PNG)
 
 [./reinforcement-learning.ipynb](./reinforcement-learning.ipynb)
+
+# AutoML (using DataIku)
+------------------------
+
+![./images/AutoML-DataIKu-Accuracy.PNG](./images/AutoML-DataIKu-Accuracy.PNG)
+![./images/AutoML-DataIKu-Graph-Accuracy.PNG](./images/AutoML-DataIKu-Graph-Accuracy.PNG)
+![./images/AutoML-DataIKu-ROC-AUC.PNG](./images/AutoML-DataIKu-ROC-AUC.PNG)
+![./images/AutoML-DataIKu-Graph-ROC-AUC.PNG](./images/AutoML-DataIKu-Graph-ROC-AUC.PNG)

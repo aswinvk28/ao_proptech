@@ -1,0 +1,357 @@
+Month,Continent,HQ,re1,re2,re3,re4,bm1,bm2,bm3,bm4,pv1,pv2,pv3,pv4,Stage
+January,Europe,UK,Residential,,,,,,,,Hybrid Letting Platform,,,,Seed
+January,Europe,UK,Residential,Commercial,,,,,,,PropFinTech,,,,Seed
+January,Europe,UK,Residential,,,,,,,,LegalTech,,,,Seed
+January,Europe,Germany,Commercial,,,,,,,,ConTech,,,,Series A
+January,Europe,UK,Commercial,Residential,,,,,,,ClimateTech,Smart Building,,,Seed
+January,Europe,Belgium,Residential,Commercial,,,,,,,Smart Building,ClimateTech,,,Series A
+January,North America,US,Residential,,,,,,,,PropFinTech,,,,Series B
+January,North America,Canada,Commercial,,,,,,,,PropFinTech,,,,Series A
+February,Europe,Germany,Residential,,,,,,,,Property Management,,,,Series B
+February,North America,US,Commercial,,,,,,,,Property Management,ClimateTech,Smart Building,,Series B
+February,Europe,Switzerland,Residential,,,,,,,,Smart Building,,,,Series A
+February,Europe,UK,Residential,,,,,,,,Property Management,,,,Seed
+February,North America,Canada,Hotel,Residential,,,,,,,HospitalityTech,,,,Seed
+February,Europe,France,Residential,,,,,,,,Property Management,,,,Series A
+February,Europe,UK,Residential,,,,Marketplace,,,,ConTech,,,,Series A
+February,Europe,UK,Infrastructure,,,,eCommerce Platform,,,,ConTech,,,,Seed
+February,North America,US,Commercial,Residential,,,,,,,Smart Building,,,,Series A
+February,North America,US,Residential,,,,,,,,Co-Living,,,,Seed
+February,North America,US,Residential,,,,,,,,PropFinTech,,,,Seed
+February,Europe,UK,Commercial,Residential,,,,,,,ConTech,,,,Series A
+February,Europe,UK,Commercial,,,,,,,,PropFinTech,,,,Seed
+February,Europe,UK,Residential,,,,eCommerce Platform,,,,PropFinTech,Property Management,,,Seed
+February,Middle East,Israel,Hotel,,,,SaaS,,,,HospitalityTech,,,,Seed
+February,North America,US,Infrastructure,,,,,,,,ClimateTech,,,,Growth
+February,North America,US,Residential,,,,,,,,PropFinTech,LegalTech,,,Series A
+February,North America,Canada,Residential,,,,,,,,PropFinTech,,,,Seed
+February,Europe,UK,Commercial,Hotel,,,,,,,HospitalityTech,,,,Growth
+February,Europe,UK,Residential,,,,,,,,ClimateTech,,,,Seed
+February,Middle East,Turkey,Commercial,,,,,,,,PropFinTech,,,,Seed
+February,Europe,France,Residential,,,,B2B2C,,,,PropFinTech,LegalTech,,,Series A
+February,Europe,Finland,Residential,Commercial,,,,,,,ConTech,,,,Series A
+February,Europe,UK,Commercial,,,,,,,,Smart Building,,,,Series A
+February,Europe,Netherlands,Residential,,,,,,,,Smart Building,ClimateTech,,,Seed
+February,Europe,UK,Residential,,,,,,,,Property Management,,,,Seed
+February,Europe,France,Residential,Commercial,,,SaaS,,,,Smart Building,,,,Seed
+February,Europe,Germany,Residential,,,,,,,,Co-Living,,,,Seed
+February,Middle East,Cyprus,Residential,,,,SaaS,,,,Hybrid Letting Platform,,,,Seed
+February,Europe,Germany,Residential,,,,eCommerce Platform,,,,Property Management,,,,Series B
+February,APAC,Hong Kong,Residential,,,,,,,,FinTech,,,,Seed
+February,Europe,UK,Commercial,,,,B2B,Marketplace,,,Co-Working,,,,Series A
+February,Europe,UK,Residential,,,,,,,,PropFinTech,,,,Seed
+February,Europe,France,Commercial,,,,,,,,Smart Building,,,,Seed
+February,Europe,Spain,Residential,,,,,,,,Hybrid Letting Platform,,,,Seed
+February,Europe,Finland,Residential,,,,,,,,Property Sales,,,,Growth
+February,Europe,UK,Residential,,,,B2B2C,,,,ConTech,Property Sales,PropFinTech,,Seed
+February,Europe,France,Residential,,,,eCommerce Platform,,,,Co-Living,,,,Series B
+February,North America,US,Residential,Commercial,Hotel,,,,,,Smart City,,,,Series A
+February,Europe,Germany,Residential,,,,,,,,ClimateTech,Smart Building,,,Seed
+February,Africa,Ghana,Commercial,,,,,,,,PropFinTech,,,,Growth
+February,Europe,UK,Residential,,,,,,,,PropFinTech,LegalTech,,,Seed
+February,North America,US,Residential,,,,,,,,ConTech,Pre-Fab,,,Seed
+February,Europe,UK,Residential,,,,,,,,Hybrid Letting Platform,Property Sales,,,Seed
+February,Europe,UK,Residential,,,,B2B2C,,,,Property Sales,,,,Seed
+February,Europe,Finland,Commercial,,,,,,,,Smart Building,ClimateTech,,,Series A
+February,North America,Canada,Residential,,,,,,,,Co-Living,,,,Seed
+February,Europe,Germany,Residential,Commercial,,,,,,,PropFinTech,,,,Seed
+February,Middle East,Israel,Residential,,,,,,,,SecurityTech,,,,Series A
+February,Europe,UK,Commercial,,,,,,,,LegalTech,,,,Seed
+February,Europe,UK,Residential,Commercial,,,,,,,PropFinTech,,,,Seed
+February,North America,US,Commercial,,,,,,,,Smart Building,ClimateTech,,,Series A
+February,Middle East,Israel,Commercial,,,,,,,,Smart City,,,,Seed
+February,Middle East,Israel,Commercial,,,,,,,,Smart Building,,,,Series B
+February,Middle East,Turkey,Residential,Commercial,,,,,,,Hybrid Letting Platform,,,,Series A
+February,Europe,Spain,Residential,,,,,,,,Property Sales,,,,Seed
+February,Europe,UK,Residential,,,,,,,,LegalTech,,,,Seed
+February,Europe,UK,Residential,,,,eCommerce Platform,,,,PropFinTech,,,,Seed
+February,Europe,France,Commercial,Residential,Infrastructure,,,,,,Smart Building,,,,Series A
+February,Middle East,Israel,Commercial,Residential,,,,,,,PropFinTech,,,,Seed
+February,Europe,UK,Residential,Commercial,,,,,,,Smart Building,,,,Seed
+February,Europe,Portugal,Residential,,,,,,,,PropFinTech,,,,Seed
+February,APAC,Malaysia,Residential,,,,,,,,Property Management,,,,Series A
+February,North America,US,Residential,,,,eCommerce Platform,,,,Co-Living,,,,Seed
+February,North America,US,Residential,,,,,,,,Hybrid Letting Platform,,,,Seed
+February,Europe,France,Residential,Commercial,,,,,,,Property Sales,,,,Series A
+February,Europe,Germany,Commercial,,,,eCommerce Platform,,,,PropFinTech,,,,Series B
+February,Europe,UK,Residential,,,,SaaS,,,,Smart Viewing,,,,Seed
+February,Europe,UK,Commercial,,,,,,,,Hybrid Letting Platform,Property Sales,,,Seed
+February,Europe,Belgium,Commercial,,,,,,,,Co-Living,,,,Seed
+February,Europe,Germany,Residential,,,,Marketplace,,,,Hybrid Letting Platform,,,,Series B
+March,North America,US,Residential,Commercial,,,,,,,Pre-Fab,,,,Series A
+March,Europe,Switzerland,Residential,,,,,,,,Smart Building,,,,Growth
+March,North America,US,Infrastructure,,,,B2B,SaaS,,,ConTech,,,,Seed
+March,Europe,Switzerland,Commercial,Residential,,,,,,,SecurityTech,,,,Series A
+March,Middle East,Saudi Arabia,Residential,,,,,,,,ConTech,Property Management,,,Series A
+March,North America,US,Commercial,,,,,,,,ConTech,,,,Series A
+March,Europe,Germany,Hotel,,,,,,,,HospitalityTech,,,,Series A
+March,Europe,UK,Residential,,,,DaaS,B2B,B2C,,Property Management,,,,Seed
+March,Europe,UK,Commercial,,,,,,,,LegalTech,AR/VR,,,Seed
+March,Europe,Denmark,Commercial,,,,B2B,SaaS,,,Smart Building,ClimateTech,,,Seed
+March,Europe,Denmark,Residential,Commercial,,,,,,,PropFinTech,,,,Seed
+March,Europe,Norway,Residential,,,,,,,,Property Management,,,,Series A
+March,Europe,Germany,Residential,Commercial,,,,,,,Smart Building,,,,Seed
+March,Europe,UK,Residential,Commercial,,,eCommerce Platform,B2B2C,,,ConTech,,,,Seed
+March,Europe,France,Residential,,,,,,,,ConTech,,,,Series B
+March,North America,US,Residential,,,,,,,,Property Management,Smart Building,,,Growth
+March,Europe,UK,Residential,,,,B2B2C,,,,Property Management,,,,Series A
+March,Europe,Germany,Commercial,Residential,,,eCommerce Platform,,,,Property Sales,,,,Seed
+March,Middle East,Israel,Commercial,,,,B2B,,,,ConTech,,,,Series A
+March,North America,US,Residential,,,,,,,,Smart Building,Pre-Fab,,,Seed
+March,North America,US,Residential,,,,B2B2C,,,,PropFinTech,,,,Growth
+March,Middle East,Israel,Commercial,,,,,,,,Smart Building,IoT,Smart City,,Growth
+March,Europe,UK,Residential,,,,,,,,LegalTech,,,,Seed
+March,APAC,Singapore,Residential,,,,Marketplace,SaaS,,,Property Sales,,,,Seed
+March,Europe,Germany,Residential,,,,,,,,PropFinTech,,,,Seed
+March,Europe,UK,Residential,,,,SaaS,,,,Property Management,PropFinTech,,,Seed
+March,Europe,Finland,Residential,,,,,,,,Smart Building,ClimateTech,,,Series A
+March,Europe,Spain,Residential,,,,,,,,HospitalityTech,,,,Series B
+March,Europe,UK,Residential,,,,,,,,PropFinTech,,,,Seed
+March,Europe,France,Residential,,,,eCommerce Platform,B2B2C,,,ConTech,,,,Series A
+March,Europe,Estonia,Commercial,,,,eCommerce Platform,,,,PropFinTech,,,,Seed
+March,Europe,Netherlands,Commercial,,,,,,,,Tenant Engagement,Co-Working,,,Series B
+March,Europe,Ireland,Residential,,,,,,,,PropFinTech,,,,Seed
+March,Europe,Belgium,Residential,,,,B2B,SaaS,Marketplace,,AR/VR,,,,Seed
+March,Oceania,New Zealand,Residential,,,,,,,,Property Management,,,,Series A
+March,Europe,UK,Residential,,,,,,,,PropFinTech,,,,Seed
+March,Europe,UK,Commercial,,,,,,,,FinTech,,,,Series A
+March,Europe,UK,Residential,,,,,,,,Hybrid Letting Platform,,,,Seed
+March,Europe,UK,Residential,Commercial,,,eCommerce Platform,B2C,,,PropFinTech,,,,Seed
+March,North America,US,Residential,,,,eCommerce Platform,,,,Hybrid Letting Platform,,,,Seed
+March,Europe,UK,Residential,,,,,,,,ConTech,,,,Seed
+March,Middle East,Israel,Commercial,,,,,,,,ConTech,,,,Seed
+March,Europe,UK,Commercial,,,,eCommerce Platform,,,,Property Sales,,,,Seed
+March,North America,US,Residential,Commercial,,,SaaS,,,,Property Sales,,,,Seed
+March,Europe,Ukraine,Commercial,,,,,,,,Co-Living,Smart Building,,,Seed
+March,Europe,France,Residential,Commercial,Hotel,,,,,,Smart Building,Property Management,,,Series B
+March,Middle East,Israel,Residential,,,,,,,,IoT,Smart Home,,,Growth
+March,North America,US,Residential,,,,,,,,PropFinTech,,,,Series A
+April,Middle East,Israel,Residential,Commercial,,,,,,,ConTech,IoT,,,Seed
+April,North America,US,Commercial,,,,eCommerce Platform,,,,ClimateTech,IoT,,,Seed
+April,Europe,UK,Residential,Commercial,,,,,,,Property Management,Smart Building,ClimateTech,,Series A
+April,Europe,Spain,Residential,,,,,,,,Co-Living,Smart Home,,,Seed
+April,North America,US,Residential,,,,Marketplace,,,,Property Sales,PropFinTech,,,Seed
+April,North America,US,Commercial,,,,Marketplace,,,,ConTech,,,,Seed
+April,North America,US,Residential,,,,,,,,ClimateTech,ConTech,Smart Home,IoT,Series A
+April,Europe,Germany,Commercial,,,,Marketplace,,,,ConTech,,,,Seed
+April,Europe,France,Residential,Hotel,Commercial,,,,,,ClimateTech,,,,Seed
+April,Europe,Sweden,Commercial,,,,B2B,SaaS,,,Smart Building,ClimateTech,,,Series A
+April,North America,US,Residential,,,,Marketplace,,,,Property Management,,,,Series A
+April,Europe,UK,Residential,,,,Marketplace,,,,PropFinTech,,,,Series A
+April,Europe,UK,Residential,,,,SaaS,B2B,,,PropFinTech,,,,Growth
+April,Europe,Netherlands,Commercial,Hotel,Residential,,B2B,,,,AR/VR,,,,Seed
+April,Europe,France,Residential,,,,,,,,Smart Home,Tenant Engagement,IoT,,Series A
+April,Europe,UK,Residential,,,,,,,,ClimateTech,Smart Home,,,Seed
+April,Europe,UK,Residential,,,,B2B2C,,,,Tenant Engagement,Smart Home,,,Seed
+April,Europe,Germany,Residential,,,,Marketplace,,,,Property Management,Tenant Engagement,,,Seed
+April,North America,US,Residential,Commercial,,,,,,,Smart Home,ClimateTech,IoT,,Series A
+April,Europe,UK,Commercial,Residential,,,B2B,SaaS,,,Property Management,,,,Seed
+May,Europe,Belgium,Residential,,,,,,,,PropFinTech,LegalTech,,,Seed
+May,Europe,Ireland,Residential,,,,,,,,PropFinTech,Tenant Engagement,,,Seed
+May,North America,US,Infrastructure,,,,B2B,,,,IoT,,,,Seed
+May,Europe,UK,Logistic,,,,Marketplace,,,,AR/VR,Smart City,,,Seed
+May,Europe,Germany,Commercial,Residential,,,,,,,Smart City,Smart Building,IoT,Electric Vehicles,Seed
+May,North America,US,Logistic,,,,B2B,eCommerce Platform,,,Property Management,,,,Seed
+May,Europe,Germany,Residential,,,,,,,,Property Sales,,,,Series A
+May,Europe,Sweden,Residential,,,,Marketplace,,,,PropFinTech,,,,Seed
+May,Middle East,Israel,Commercial,Residential,,,SaaS,,,,PropFinTech,,,,Seed
+May,Europe,Spain,Commercial,Residential,,,SaaS,,,,AR/VR,,,,Series A
+May,Europe,Norway,Commercial,Residential,,,SaaS,,,,ConTech,,,,Series A
+May,Europe,UK,Residential,,,,,,,,PropFinTech,,,,Seed
+May,Europe,Denmark,Commercial,Land,Infrastructure,,,,,,Smart Building,HealthTech,,,Series B
+May,North America,US,Commercial,Hotel,,,B2B,SaaS,,,HospitalityTech,Smart Building,,,Series A
+May,Europe,Germany,Commercial,Residential,,,SaaS,,,,ConTech,,,,Seed
+May,Africa,Nigeria,Commercial,Residential,,,Marketplace,,,,PropFinTech,,,,Seed
+May,Europe,UK,Residential,,,,SaaS,,,,Tenant Engagement,Property Management,,,Seed
+May,Middle East,Israel,Land,,,,B2B,,,,PropFinTech,,,,Seed
+May,North America,US,Commercial,Residential,,,,,,,ClimateTech,,,,Series A
+May,Europe,Germany,Residential,Commercial,Infrastructure,,SaaS,,,,ConTech,,,,Series A
+May,Middle East,UAE,Commercial,,,,,,,,IoT,Property Management,Smart Building,Tenant Engagement,Series A
+May,Europe,Lithuania,Residential,,,,Marketplace,,,,PropFinTech,Property Sales,,,Seed
+June,North America,Canada,Residential,,,,B2B2C,SaaS,,,ConTech,,,,Seed
+June,Europe,France,Residential,,,,,,,,PropFinTech,,,,Seed
+June,Europe,France,Residential,,,,B2B,SaaS,,,Property Sales,,,,Seed
+June,Europe,Belgium,Residential,,,,B2B,,,,ConTech,Pre-Fab,,,Seed
+June,Europe,Germany,Commercial,,,,eCommerce Platform,SaaS,,,AR/VR,,,,Series A
+June,North America,US,Commercial,Logistic,,,B2B,,,,Smart City,,,,Series A
+June,Europe,UK,Residential,,,,B2B,Marketplace,,,Property Management,,,,Seed
+June,APAC,Singapore,Residential,Commercial,,,,,,,IoT,Smart Building,Property Management,,Series B
+June,Europe,UK,Residential,Hotel,,,,,,,Property Management,HospitalityTech,,,Series B
+June,Europe,Switzerland,Residential,,,,Marketplace,,,,Property Management,,,,Series A
+June,Europe,Netherlands,Residential,Commercial,,,,,,,Co-Working,Co-Living,,,Seed
+June,Middle East,Cyprus,Residential,,,,eCommerce Platform,,,,HospitalityTech,,,,Seed
+June,Europe,UK,Residential,,,,,,,,ClimateTech,Smart Home,,,Series A
+June,Europe,UK,Residential,,,,,,,,Smart Home,CleanTech,,,Series A
+June,Europe,UK,Commercial,,,,SaaS,B2B,,,Property Management,,,,Seed
+June,Middle East,Israel,Residential,,,,Marketplace,,,,Hybrid Letting Platform,,,,Seed
+June,Europe,Italy,Residential,,,,,,,,Property Management,PropFinTech,,,Seed
+June,North America,US,Residential,,,,Marketplace,,,,Property Management,,,,Series A
+June,North America,US,Residential,,,,Marketplace,,,,Property Sales,,,,Growth
+June,Europe,France,Residential,,,,B2B,B2C,B2B2C,Marketplace,ConTech,,,,Series A
+June,Europe,UK,Infrastructure,,,,SaaS,,,,ConTech,,,,Seed
+June,North America,US,Residential,Hotel,,,Marketplace,,,,Hybrid Letting Platform,,,,Seed
+June,Europe,Switzerland,Commercial,,,,B2B,,,,PropFinTech,,,,Seed
+June,Europe,UK,Commercial,,,,,,,,Smart City,Smart Building,SecurityTech,,Seed
+June,North America,US,Residential,Commercial,,,SaaS,,,,Property Management,,,,Seed
+July,North America,US,Commercial,Residential,,,,,,,Property Management,Property Sales,,,Seed
+July,Europe,Germany,Commercial,,,,B2B,,,,ConTech,Smart City,,,Seed
+July,North America,US,Residential,Commercial,,,B2B,SaaS,,,Property Sales,,,,Series A
+July,Europe,Slovakia,Residential,,,,SaaS,,,,Property Management,Property Sales,Smart City,,Seed
+July,North America,US,Commercial,,,,Marketplace,,,,Co-Working,,,,Series A
+July,APAC,Singapore,Logistic,,,,,,,,ClimateTech,CleanTech,,,Seed
+July,Europe,UK,Residential,Commercial,,,,,,,ClimateTech,ConTech,Pre-Fab,,Seed
+July,Europe,Portugal,Residential,,,,Marketplace,,,,Hybrid Letting Platform,,,,Seed
+July,Europe,UK,Residential,,,,B2B,DaaS,,,LegalTech,,,,Series A
+July,Europe,Estonia,Commercial,,,,SaaS,,,,Property Management,,,,Seed
+July,Europe,UK,Commercial,Residential,,,Marketplace,,,,Property Management,Property Sales,,,Seed
+July,Europe,UK,Residential,,,,SaaS,,,,Property Management,IoT,,,Series A
+July,Europe,UK,Commercial,,,,Marketplace,SaaS,,,PropFinTech,,,,Seed
+July,Oceania,Australia,Residential,,,,B2B2C,Marketplace,,,Property Sales,,,,Seed
+July,APAC,India,Commercial,,,,B2B,,,,CleanTech,,,,Seed
+July,Europe,UK,Residential,,,,B2B,,,,Property Management,,,,Seed
+July,Europe,France,Residential,Commercial,,,,,,,Smart Building,ConTech,,,Seed
+July,Europe,UK,Residential,,,,B2B,SaaS,,,PropFinTech,,,,Series A
+July,Europe,UK,Commercial,,,,,,,,FinTech,,,,Series A
+July,Europe,UK,Residential,,,,B2B2C,,,,Property Sales,,,,Seed
+July,North America,US,Hotel,,,,B2C,Marketplace,,,HospitalityTech,,,,Seed
+August,Europe,Belgium,Residential,Commercial,,,B2B,Marketplace,,,Property Management,,,,Seed
+August,North America,Canada,Commercial,,,,DaaS,eCommerce Platform,,,Smart Building,,,,Series A
+August,North America,Canada,Infrastructure,Logistic,,,,,,,IoT,,,,Series B
+August,Europe,Switzerland,Commercial,,,,,,,,Smart Building,,,,Seed
+August,North America,US,Residential,,,,SaaS,,,,Property Management,,,,Seed
+August,Oceania,Australia,Logistic,,,,,,,,Pre-Fab,,,,Series A
+August,Middle East,Israel,Infrastructure,,,,SaaS,,,,Smart City,ClimateTech,FinTech,,Series A
+August,Europe,UK,Commercial,Residential,,,SaaS,B2B,,,FinTech,,,,Seed
+August,North America,US,Commercial,,,,B2B,,,,Recruitment Tech,,,,Seed
+August,Europe,UK,Residential,Commercial,,,Marketplace,B2C,,,Property Management,,,,Seed
+August,North America,US,Residential,Commercial,,,SaaS,B2B,,,CleanTech,InsurTech,,,Series A
+August,Europe,Germany,Residential,,,,B2B,SaaS,,,Property Management,,,,Seed
+August,Europe,Finland,Commercial,Residential,,,B2B,SaaS,,,ConTech,,,,Seed
+August,Europe,Denmark,Commercial,,,,SaaS,,,,Smart City,IoT,,,Seed
+September,Europe,Germany,Residential,,,,SaaS,B2B,,,CleanTech,ClimateTech,,,Series A
+September,Europe,UK,Logistic,,,,MaaS,,,,Smart City,IoT,,,Series B
+September,Europe,Germany,Commercial,,,,,,,,Smart Building,Property Management,,,Seed
+September,Middle East,Israel,Residential,Infrastructure,,,B2C,,,,HealthTech,ClimateTech,CleanTech,,Seed
+September,Europe,Italy,Residential,,,,SaaS,,,,ConTech,,,,Seed
+September,Europe,UK,Commercial,,,,SaaS,B2B,,,Property Management,,,,Seed
+September,North America,US,Residential,,,,Marketplace,,,,HospitalityTech,,,,Seed
+September,Middle East,Israel,Residential,,,,B2C,SaaS,,,IoT,HealthTech,,,Series A
+September,Europe,UK,Residential,,,,Marketplace,B2B,B2C,,PropFinTech,,,,Seed
+September,Europe,France,Commercial,Residential,Hotel,,B2B,SaaS,,,Property Management,,,,Seed
+September,Europe,Czech Republic,Commercial,,,,SaaS,B2B,,,Smart Building,Tenant Engagement,IoT,,Series A
+September,Europe,UK,Commercial,,,,B2B,B2B2C,,,Property Management,Tenant Engagement,Smart Building,Smart City,Seed
+September,APAC,India,Residential,,,,Marketplace,B2B,B2C,,PropFinTech,,,,Growth
+September,North America,US,Commercial,Residential,,,,,,,CleanTech,ClimateTech,ConTech,,Seed
+September,North America,US,Residential,,,,B2C,,,,Property Sales,,,,Series A
+September,Europe,UK,Residential,,,,B2C,,,,Smart Home,,,,Seed
+September,North America,US,Residential,,,,,,,,Co-Living,,,,Seed
+September,Europe,UK,Commercial,,,,Marketplace,,,,Co-Working,,,,Seed
+September,Europe,UK,Commercial,Residential,,,SaaS,,,,LegalTech,,,,Seed
+September,Europe,Germany,Commercial,Residential,,,B2B,Marketplace,,,ConTech,,,,Series A
+September,North America,US,Commercial,Residential,Infrastructure,,B2B,,,,Smart Building,,,,Series A
+September,Europe,Estonia,Residential,,,,SaaS,B2B,,,Property Management,,,,Seed
+September,Europe,UK,Residential,,,,,,,,Co-Living,Co-Working,Hybrid Letting Platform,,Growth
+September,APAC,China,Commercial,,,,SaaS,,,,Hybrid Letting Platform,,,,Seed
+September,Europe,France,Commercial,Residential,,,B2B2C,SaaS,Marketplace,,Property Sales,,,,Series B
+September,Middle East,Israel,Infrastructure,,,,B2B,SaaS,,,ConTech,,,,Seed
+September,Europe,France,Land,,,,Marketplace,SaaS,,,Property Development,,,,Seed
+September,Europe,UK,Commercial,Residential,,,,,,,AR/VR,Property Management ,Smart Viewing,,Seed
+October,Europe,Spain,Residential,,,,B2B,,,,ConTech,ClimateTech,Property Development,Pre-Fab,Seed
+October,Europe,UK,Land,,,,Marketplace,SaaS,,,Property Sales,PropFinTech,,,Seed
+October,Europe,France,Residential,Commercial,,,B2B,SaaS,,,ConTech,Property Development,Analytics,,Series A
+October,Europe,Germany,Hotel,Apart-Hotel,,,,,,,HospitalityTech,Property Management System,,,Series A
+October,Europe,UK,Residential,,,,,,,,Analytics,Property Management System,FinTech,,Series X
+October,Europe,UK,Healthcare,,,,,,,,ConTech,AR/VR,IoT,HealthTech,Seed
+October,Europe,Germany,Residential,,,,Marketplace,B2B,B2B2C,,PropFinTech,Property Sales,,,Series A
+October,North America,US/Finland,Residential,Commercial,,,,,,,AR/VR,,,,Series A
+October,Europe,UK,Infrastructure,,,,B2B,SaaS,,,Analytics,,,,Seed
+October,North America,USA,Residential,,,,,,,,ConTech,Modular Construction,,,Seed
+October,North America,US,Commercial,Residential,,,SaaS,,,,FinTech,PropFinTech,,,Seed
+October,North America,US,Hotel,Apart-Hotel,,,,,,,HospitalityTech,,,,Bridge Round
+October,North America,USA,Residential,,,,B2B,,,,Smart Home,IoT,,,Pre-Series A
+October,North America,US,Residential,,,,B2B,,,,Hybrid Letting Platform,Smart Viewing,,,Seed
+October,Oceania,Australia,Residential,,,,Marketplace,B2C,,,Property Management,Hybrid Letting Platform,,,Seed
+October,Middle East,Israel,Commercial,Residential,,,,,,,ConTech,ClimateTech,CleanTech,Concrete Tech,Series A
+October,North America,USA,Commercial,,,,SaaS,,,,CleanTech,Analytics,IoT,,Series A
+October,Europe,Germany,Commercial,,,,SaaS,,,,Smart Building,IoT,,,Series B
+October,Europe,UK,Residential,Commercial,,,Marketplace,,,,LegalTech,,,,Seed
+October,North America,US,Residential,,,,SaaS,B2B2C,,,Smart Home,,,,Post Seed
+October,Europe,France,Residential,Commercial,,,,,,,Analytics,Property Sales,,,Series A
+October,Europe,UK,Residential,,,,SaaS,,,,Property Management,,,,Series B
+October,Europe,UK,Infrastructure,,,,SaaS,,,,ConTech,FinTech,Tradespeople Software,,Seed
+October,Europe,Switzerland,Commercial,,,,SaaS,B2B,,,Analytics,Smart Building,Property Management,Workplace Analytics,Series A extension
+October,Europe,UK,Residential,Apart-Hotel,,,,,,,HospitalityTech,Property Management,Short Term Rental Property Mgmt,,Series A
+October,Europe,France,Hotel,,,,B2B,,,,HospitalityTech,,,,Series B
+October,North America,USA,Hotel,,,,B2B,,,,HospitalityTech,Housekeeping Optimisation,,,Venture Round
+October,Europe,Norway,Residential,Commercial,,,B2B,SaaS,,,Analytics,ConTech,Property Development,,Seed
+October,Europe,Spain,Residential,,,,,,,,Short Term Rental Property Mgmt,,,,Seed
+October,Europe,UK,Residential,,,,,,,,PropFinTech,Homebuying,,,Series A
+October,Europe,Austria,Residential,Commercial,,,SaaS,Marketplace,,,AR/VR,ConTech,,,Seed+
+October,North America,USA,Residential,,,,,,,,Settlement Software,Property Sales,,,Bridge Round
+October,North America,USA,Commercial,,,,,,,,PropFinTech,Alternative Investment Management,,,Series A
+October,Middle East,Turkey,Commercial,,,,SaaS,B2B,,,Analytics,Smart Building,ClimateTech,IoT,Series A
+October,Africa,Nigeria,Residential,Land,Commercial,,,,,,Property Management,PropFinTech,LegalTech,,Seed
+October,North America,US,Commercial,,,,SaaS,B2B,,,SecurityTech,,,,Series A
+October,Europe,UK,Commercial,,,,SaaS,B2B,,,FoodTech,,,,Seed
+October,North America,USA,Residential,Commercial,,,SaaS,,,,Smart Home,Lighting,Software Enabled Lighting,,Seed
+October,Europe,Finland,Commercial,,,,B2B,,,,CleanTech,,,,Series A
+October,North America,USA,Residential,,,,,,,,Tenant Engagement,Resident Loyalty,,,Seed
+October,North America,USA,Logistic,Industrial,,,,,,,Workplace Safety,IoT,,,Series B
+October,Middle East,Turkey,Residential,Commercial,Land,,Marketplace,,,,Property Sales,,,,Series A
+October,Europe,UK,Residential,,,,B2B2C,Marketplace,,,Property Management,,,,Growth
+October,Europe,Spain,Residential,,,,,,,,Property Sales,PropFinTech,iBuyer,,Series A
+October,Europe,Finland,Hotel,,,,,,,,CleanTech,,,,Seed
+October,Middle East,Turkey,Mobility,,,,Marketplace,,,,Carpool Service,,,,Series A
+October,Europe,France,Residential,,,,,,,,Co-Living,,,,Seed
+October,North America,Canada,Commercial,Residential,,,B2B,,,,Cleaning and Facilities Management,CleanTech,Property Management,,Series A
+October,North America,US,Residential,,,,B2C,,,,Property Sales,Smart Listings,Smart Agent,,Series A
+October,North America,US,Residential,Commercial,Hotel,,,,,,IoT,Smart Home,,,Series B
+November,Europe,France,Infrastructure,,,,,,,,ConTech,,,,Seed
+November,Europe,UK,Commercial,,,,Marketplace,,,,Co-Working,Short Term Rental Property Mgmt,,,Seed
+November,Europe,UK,Commercial,Residential,Infrastructure,,,,,,Smart City,,,,Seed
+November,North America,Canada,Logistic,Commercial,,,B2B,SaaS,,,SecurityTech,Analytics,,,Seed
+November,Europe,Sweden,Residential,,,,SaaS,B2B,,,Smart Listings,Smart Agent,,,Seed
+November,North America,US,Commercial,,,,B2B,,,,Analytics,Property Management,,,Series B
+November,North America,US,Commercial,Hotel,Healthcare,,,,,,IoT,SecurityTech,Analytics,,Seed
+November,North America,US,Apart-Hotel,Residential,,,,,,,Homebuying,HospitalityTech,PropFinTech,Short Term Rental Property Mgmt,Seed
+November,Europe,Luxembourg,Commercial,,,,B2B,,,,Smart Building,CleanTech,,,Seed
+November,North America,US,Restaurant,,,,SaaS,B2B,,,FoodTech,,,,Seed
+November,North America,US,Multifamily,,,,B2B2C,B2B,,,InsurTech,Analytics,,,Series B
+November,North America,US,Residential,Hotel,,,,,,,HealthTech,IoT,Smart Home,,Series A
+November,North America,US,Mobility,Infrastructure,,,B2B,,,,Smart City,Autonomous Driving,CleanTech,,Seed
+November,North America,USA,Residential,Commercial,Hotel,,,,,,Robotic Furniture,,,,Series C
+November,Europe,Switzerland,Residential,,,,B2B2C,,,,IoT,Property Management,Smart Home,,Series A
+November,Europe,Netherlands,Hotel,Residential,Commercial,,B2B,,,,Smart Glass,CleanTech,Sustainable Facade,,Series A
+November,Europe,UK,Residential,,,,eCommerce Platform,,,,HospitalityTech,Short Term Rental Property Mgmt,,,Series A
+November,Europe,UK,Commercial,,,,,,,,Data Management,Rent Roll Extraction,,,Seed
+November,Europe,Norway,Infrastructure,,,,SaaS,,,,ConTech,,,,Seed
+November,Europe,Spain,Residential,,,,B2B2C,,,,Property Sales,,,,Series A
+November,Middle East,Israel,Commercial,Residential,Hotel,,,,,,3D Visualization,Layout Planning,,,Seed
+November,North America,US,Residential,Hotel,,,B2B,eCommerce Platform,SaaS,,HospitalityTech,,,,Series A
+November,North America,US,Hotel,,,,B2C,P2P Platform,,,HospitalityTech,Property Management,,,Series E
+November,Europe,France,Commercial,,,,,,,,Building Operating System,Smart Building,,,Venture
+November,Europe,UK,Residential,Social Housing,,,SaaS,B2B,,,IoT,Smart Home,,,Series A
+November,Europe,Belgium,Farms,Land,,,,,,,FoodTech,CleanTech,,,JV
+November,Middle East,Israel,Commercial,,,,SaaS,,,,CleanTech,ClimateTech,Smart Building,,Seed
+November,APAC,Japan,Residential,Multifamily,,,,,,,Asset Management,Property Management,,,Series A
+December,North America,US,Commercial,Residential,,,Marketplace,,,,Capital Markets Brokerage,Investment Club,,,Seed
+December,Oceania,Australia,Commercial,Residential,,,,,,,ConTech,Job Site Safety,Project Management,,Series B
+December,Europe,Netherlands,Commercial,,,,B2B,SaaS,,,Tenant Engagement,Smart Building,,,Series B
+December,Europe,Luxembourg,Infrastructure,Energy,,,,,,,CleanTech,Photovoltaic Manufacturing,Solar Energy,,Series A
+December,Europe,UK,Commercial,,,,B2B,SaaS,,,Tenant Engagement,Smart Building,,,Series A
+December,Europe,Netherlands,Commercial,,,,B2B,SaaS,,,Co-Working,Property Management System,Tenant Engagement,,Seed
+December,Europe,France,Commercial,,,,B2B,SaaS,,,Co-Working,Occupancy Management,,,Seed
+December,North America,USA,Residential,,,,B2B2C,,,,Security Deposit,FinTech,,,Series A
+December,North America,USA,Residential,Commercial,Hotel,,SaaS,B2B2C,B2C,B2B,Green Roof,Living Wall,CleanTech,Smart Building,Seed
+December,Middle East,Israel,Land,,,,B2B,SaaS,,,Analytics,,,,Seed
+December,North America,US,Commercial,Residential,,,SaaS,B2B,,,Analytics,Data Management,Building Operating System,ClimateTech,Series C
+December,North America,US,Commercial,,,,B2B,,,,Location Risk Analysis,Analytics,,,Series A
+December,Europe,UK,Hotel,Residential,Restaurant,Commercial,B2B,,,,HospitalityTech,,,,Seed
+December,Europe,UK,Hotel,Residential,Commercial,,SaaS,Marketplace,,,HospitalityTech,AR/VR,,,Series A
+December,Europe,UK,Residential,,,,Marketplace,P2P Platform,,,Homebuying,Property Sales,,,Seed
+December,Europe,UK,Residential,Commercial,,,,,,,CleanTech,Space Heating,IoT,,Series A
+December,North America,US,Land,Farms,,,,,,,Satellite Tech,AgriTech,,,Growth Equity
+December,Europe,Norway,Commercial,Residential,,,B2B,SaaS,,,ConTech,Onsite Execution,Inspection & Monitoring,Project Management,Series A
+December,North America,UK,Residential,,,,B2B,B2B2C,SaaS,,Property Sales,Smart Agent,,,Seed
+December,Europe,Spain,Residential,,,,B2C,SaaS,,,Homebuying,LegalTech,Property Management,,Seed
+December,North America,US,Land,Infrastructure,,,B2B,SaaS,,,Analytics,ConTech,Inspection & Monitoring,Location Risk Analysis,Series A
